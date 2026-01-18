@@ -32,4 +32,4 @@ while True:
         computer_score+=1
 print("You won ", user_score,"times")
 print("Computer won ", computer_score,"times")
-print("Good Bye")
+print("Good Bye!")
